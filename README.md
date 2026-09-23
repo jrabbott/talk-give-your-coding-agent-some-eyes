@@ -1,8 +1,12 @@
-# Slides as code
+# D’oh! My Coding Agent Has No Eyes
 
-Reusable Vite + [reveal.js](https://revealjs.com/) starter for talk decks. The default theme is tuned for readability (Atkinson Hyperlegible, solid paper surface, quiet motion)—set CSS variables and add assets per talk.
+Talk deck: giving AI coding agents the signals they need to write high-quality code. Built on a Vite + [reveal.js](https://revealjs.com/) scaffold with a readability-first theme (Atkinson Hyperlegible, solid paper surface, quiet motion).
 
 **Live deck (after Pages is enabled):** [https://jrabbott.github.io/slides-as-code/](https://jrabbott.github.io/slides-as-code/)
+
+## Talk in one sentence
+
+I spent months trying to improve my coding agents, before realising the problem wasn’t that they couldn’t meet my quality bar — it was that I’d never given them a signal that the bar existed.
 
 ## Requirements
 
@@ -106,4 +110,4 @@ Dependabot watches npm and GitHub Actions weekly.
 
 ## Scaffold
 
-Vite + reveal.js 6 with Atkinson Hyperlegible, a solid paper surface + teal accent palette, quiet transitions, Highlight + Notes plugins, calm 1–2 column layouts, and project Pages base path derived from the repo / package name.
+Vite + reveal.js 6 with Atkinson Hyperlegible, a solid paper surface + teal accent palette, quiet transitions, Highlight + Notes plugins, and calm 1–2 column layouts. This repo’s deck is the **D’oh! My Coding Agent Has No Eyes** talk; project Pages base path is derived from the repo / package name.

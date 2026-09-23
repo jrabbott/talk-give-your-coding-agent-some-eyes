@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Reusable Vite + reveal.js starter with a readability-first (Atkinson Hyperlegible) slide theme",
+  "description": "D’oh! My Coding Agent Has No Eyes — talk deck on giving AI coding agents machine-readable quality signals",
   "engines": {
     "node": ">=22"
   },

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Human developer feedback loop versus AI agent with no signal">
+  <rect width="1600" height="900" fill="#f2eee6"/>
+  <text x="400" y="72" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#121820">Human developer</text>
+  <text x="1200" y="72" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#121820">AI agent</text>
+
+  <!-- Human column -->
+  <rect x="160" y="120" width="480" height="88" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="400" y="174" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#121820">Sees code</text>
+  <path d="M400 208 V248" stroke="#5a6573" stroke-width="4"/>
+  <polygon points="400,260 392,244 408,244" fill="#5a6573"/>
+
+  <rect x="160" y="268" width="480" height="88" rx="8" fill="#c5e4d8" stroke="#0c6b52" stroke-width="3"/>
+  <text x="400" y="322" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#121820">Sees squiggle</text>
+  <path d="M400 356 V396" stroke="#5a6573" stroke-width="4"/>
+  <polygon points="400,408 392,392 408,392" fill="#5a6573"/>
+
+  <rect x="160" y="416" width="480" height="88" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="400" y="470" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#121820">Understands</text>
+  <path d="M400 504 V544" stroke="#5a6573" stroke-width="4"/>
+  <polygon points="400,556 392,540 408,540" fill="#5a6573"/>
+
+  <rect x="160" y="564" width="480" height="88" rx="8" fill="#0c6b52"/>
+  <text x="400" y="618" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#f2eee6">Fixes it</text>
+
+  <!-- Agent column -->
+  <rect x="960" y="120" width="480" height="88" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="1200" y="174" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#121820">Sees code</text>
+  <path d="M1200 208 V248" stroke="#5a6573" stroke-width="4"/>
+  <polygon points="1200,260 1192,244 1208,244" fill="#5a6573"/>
+
+  <rect x="960" y="268" width="480" height="88" rx="8" fill="#faf8f4" stroke="#7a2e2e" stroke-width="3" stroke-dasharray="10 8"/>
+  <text x="1200" y="322" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#7a2e2e">???</text>
+  <path d="M1200 356 V396" stroke="#5a6573" stroke-width="4"/>
+  <polygon points="1200,408 1192,392 1208,392" fill="#5a6573"/>
+
+  <rect x="960" y="416" width="480" height="88" rx="8" fill="#121820"/>
+  <text x="1200" y="470" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#f2eee6">No signal</text>
+
+  <text x="800" y="820" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#2c3544">Expecting a response to a signal the agent could not see</text>
+</svg>
