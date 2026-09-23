@@ -2,7 +2,7 @@
 
 Talk deck: giving AI coding agents the signals they need to write high-quality code. Built on a Vite + [reveal.js](https://revealjs.com/) scaffold with a readability-first theme (Atkinson Hyperlegible, solid paper surface, quiet motion).
 
-**Live deck (after Pages is enabled):** [https://jrabbott.github.io/slides-as-code/](https://jrabbott.github.io/slides-as-code/)
+**Live deck (after Pages is enabled):** [https://jrabbott.github.io/talk-give-your-coding-agent-some-eyes/](https://jrabbott.github.io/talk-give-your-coding-agent-some-eyes/)
 
 ## Talk in one sentence
 
@@ -19,7 +19,7 @@ npm ci
 npm run dev
 ```
 
-Open the URL Vite prints (usually `http://localhost:5173/slides-as-code/`).
+Open the URL Vite prints (usually `http://localhost:5173/talk-give-your-coding-agent-some-eyes/`).
 
 To check the production build:
 
