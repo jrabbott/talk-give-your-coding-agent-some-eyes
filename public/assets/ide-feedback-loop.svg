@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="IDE feedback loop for humans versus agent path without IDE signals">
+  <rect width="1600" height="900" fill="#f2eee6"/>
+  <text x="400" y="72" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#121820">Human feedback loop</text>
+  <text x="1200" y="72" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#121820">Typical agent path</text>
+
+  <!-- Human chain -->
+  <rect x="200" y="120" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="400" y="166" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Code</text>
+  <path d="M400 192 V220" stroke="#5a6573" stroke-width="4"/><polygon points="400,232 392,216 408,216" fill="#5a6573"/>
+
+  <rect x="200" y="240" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="400" y="286" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Compiler</text>
+  <path d="M400 312 V340" stroke="#5a6573" stroke-width="4"/><polygon points="400,352 392,336 408,336" fill="#5a6573"/>
+
+  <rect x="200" y="360" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="400" y="406" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Analyzers</text>
+  <path d="M400 432 V460" stroke="#5a6573" stroke-width="4"/><polygon points="400,472 392,456 408,456" fill="#5a6573"/>
+
+  <rect x="200" y="480" width="400" height="72" rx="8" fill="#c5e4d8" stroke="#0c6b52" stroke-width="3"/>
+  <text x="400" y="526" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">IDE</text>
+  <path d="M400 552 V580" stroke="#5a6573" stroke-width="4"/><polygon points="400,592 392,576 408,576" fill="#5a6573"/>
+
+  <rect x="200" y="600" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="400" y="646" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Human</text>
+  <path d="M400 672 V700" stroke="#5a6573" stroke-width="4"/><polygon points="400,712 392,696 408,696" fill="#5a6573"/>
+
+  <rect x="200" y="720" width="400" height="72" rx="8" fill="#0c6b52"/>
+  <text x="400" y="766" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#f2eee6">Correction</text>
+
+  <!-- Agent chain -->
+  <rect x="1000" y="120" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="1200" y="166" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Prompt</text>
+  <path d="M1200 192 V220" stroke="#5a6573" stroke-width="4"/><polygon points="1200,232 1192,216 1208,216" fill="#5a6573"/>
+
+  <rect x="1000" y="240" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="1200" y="286" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Plan</text>
+  <path d="M1200 312 V340" stroke="#5a6573" stroke-width="4"/><polygon points="1200,352 1192,336 1208,336" fill="#5a6573"/>
+
+  <rect x="1000" y="360" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="1200" y="406" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Code</text>
+  <path d="M1200 432 V460" stroke="#5a6573" stroke-width="4"/><polygon points="1200,472 1192,456 1208,456" fill="#5a6573"/>
+
+  <rect x="1000" y="480" width="400" height="72" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="1200" y="526" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#121820">Tests</text>
+  <path d="M1200 552 V580" stroke="#5a6573" stroke-width="4"/><polygon points="1200,592 1192,576 1208,576" fill="#5a6573"/>
+
+  <rect x="1000" y="600" width="400" height="72" rx="8" fill="#121820"/>
+  <text x="1200" y="646" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#f2eee6">Done</text>
+
+  <rect x="1000" y="720" width="400" height="72" rx="8" fill="#faf8f4" stroke="#7a2e2e" stroke-width="3" stroke-dasharray="10 8"/>
+  <text x="1200" y="766" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="24" fill="#7a2e2e">IDE loop missing</text>
+</svg>

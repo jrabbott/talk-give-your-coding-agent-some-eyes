@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Human and agent connected through a codebase that holds quality rules">
+  <rect width="1600" height="900" fill="#f2eee6"/>
+  <text x="800" y="72" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#121820">The repository becomes the consistent teammate</text>
+
+  <rect x="120" y="360" width="280" height="120" rx="8" fill="#0c6b52"/>
+  <text x="260" y="430" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="32" fill="#f2eee6">Human</text>
+
+  <path d="M400 420 H520" stroke="#5a6573" stroke-width="4"/><polygon points="532,420 516,412 516,428" fill="#5a6573"/>
+
+  <rect x="540" y="200" width="520" height="440" rx="12" fill="#faf8f4" stroke="#121820" stroke-width="4"/>
+  <text x="800" y="270" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#121820">Codebase</text>
+  <text x="800" y="340" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Rules</text>
+  <text x="800" y="390" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Build</text>
+  <text x="800" y="440" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Tests</text>
+  <text x="800" y="490" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Metrics</text>
+  <text x="800" y="540" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Style</text>
+  <text x="800" y="600" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="24" fill="#0c6b52" font-weight="700">Opinions · Boundaries · Feedback</text>
+
+  <path d="M1060 420 H1180" stroke="#5a6573" stroke-width="4"/><polygon points="1192,420 1176,412 1176,428" fill="#5a6573"/>
+
+  <rect x="1200" y="360" width="280" height="120" rx="8" fill="#121820"/>
+  <text x="1340" y="430" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="32" fill="#f2eee6">Agent</text>
+
+  <text x="800" y="760" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#2c3544">Same teammate for every model and every harness</text>
+</svg>

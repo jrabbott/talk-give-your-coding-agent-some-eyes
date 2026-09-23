@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Agent write, build, diagnostic, fix feedback loop">
+  <rect width="1600" height="900" fill="#f2eee6"/>
+  <text x="800" y="80" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#121820">Now the agent has a feedback channel</text>
+
+  <rect x="120" y="200" width="320" height="120" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="280" y="270" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="30" fill="#121820">Agent writes code</text>
+
+  <path d="M440 260 H520" stroke="#5a6573" stroke-width="4"/><polygon points="532,260 516,252 516,268" fill="#5a6573"/>
+
+  <rect x="540" y="200" width="320" height="120" rx="8" fill="#c5e4d8" stroke="#0c6b52" stroke-width="3"/>
+  <text x="700" y="255" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#121820">Build / analysis</text>
+  <text x="700" y="295" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="22" fill="#2c3544">Directory.Build.*</text>
+
+  <path d="M860 260 H940" stroke="#5a6573" stroke-width="4"/><polygon points="952,260 936,252 936,268" fill="#5a6573"/>
+
+  <rect x="960" y="200" width="320" height="120" rx="8" fill="#0c6b52"/>
+  <text x="1120" y="270" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="30" fill="#f2eee6">Diagnostic</text>
+
+  <path d="M1120 320 V400" stroke="#5a6573" stroke-width="4"/><polygon points="1120,412 1112,396 1128,396" fill="#5a6573"/>
+
+  <rect x="960" y="420" width="320" height="120" rx="8" fill="#faf8f4" stroke="#121820" stroke-width="3"/>
+  <text x="1120" y="490" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="30" fill="#121820">Agent sees it</text>
+
+  <path d="M960 480 H700" stroke="#5a6573" stroke-width="4"/><polygon points="688,480 704,472 704,488" fill="#5a6573"/>
+
+  <rect x="380" y="420" width="320" height="120" rx="8" fill="#121820"/>
+  <text x="540" y="490" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="30" fill="#f2eee6">Agent fixes code</text>
+
+  <path d="M380 480 H280" stroke="#5a6573" stroke-width="4"/>
+  <path d="M280 480 V320" stroke="#5a6573" stroke-width="4"/><polygon points="280,308 272,324 288,324" fill="#5a6573"/>
+
+  <text x="800" y="720" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Not literal eyes  a signal the agent can act on</text>
+  <text x="800" y="780" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#0c6b52" font-weight="700">The build will tell you.</text>
+</svg>
