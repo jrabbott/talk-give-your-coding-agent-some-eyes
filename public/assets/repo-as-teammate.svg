@@ -14,7 +14,7 @@
   <text x="800" y="440" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Tests</text>
   <text x="800" y="490" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Metrics</text>
   <text x="800" y="540" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Style</text>
-  <text x="800" y="600" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="24" fill="#0c6b52" font-weight="700">Opinions · Boundaries · Feedback</text>
+  <text x="800" y="600" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="24" fill="#0c6b52" font-weight="700">Opinions Â· Boundaries Â· Feedback</text>
 
   <path d="M1060 420 H1180" stroke="#5a6573" stroke-width="4"/><polygon points="1192,420 1176,412 1176,428" fill="#5a6573"/>
 
