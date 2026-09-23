@@ -36,5 +36,5 @@
   <rect x="960" y="416" width="480" height="88" rx="8" fill="#121820"/>
   <text x="1200" y="470" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#f2eee6">No signal</text>
 
-  <text x="800" y="820" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#2c3544">Expecting a response to a signal the agent could not see</text>
+  <text x="800" y="720" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#2c3544">Expecting a response to a signal the agent could not see</text>
 </svg>

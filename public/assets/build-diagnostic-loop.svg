@@ -29,6 +29,6 @@
   <path d="M380 480 H280" stroke="#5a6573" stroke-width="4"/>
   <path d="M280 480 V320" stroke="#5a6573" stroke-width="4"/><polygon points="280,308 272,324 288,324" fill="#5a6573"/>
 
-  <text x="800" y="720" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Not literal eyes  a signal the agent can act on</text>
-  <text x="800" y="780" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#0c6b52" font-weight="700">The build will tell you.</text>
+  <text x="800" y="660" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="28" fill="#2c3544">Not literal eyes — a signal the agent can act on</text>
+  <text x="800" y="720" text-anchor="middle" font-family="Atkinson Hyperlegible, Helvetica, Arial, sans-serif" font-size="26" fill="#0c6b52" font-weight="700">“The build will tell you.”</text>
 </svg>
